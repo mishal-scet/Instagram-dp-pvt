@@ -1,25 +1,22 @@
 {
     "uuids": {
-        "phone_id": "6ad7e994-d043-4b6b-987d-27b374c1afb3",
-        "uuid": "a2f95b2c-447b-4594-9ea1-c6da2fedc6d8",
-        "client_session_id": "1cda9b0c-2472-46ae-9500-9d4711d2e180",
-        "advertising_id": "1eb66ea6-a095-40f0-bba4-59042c5327e2",
-        "android_device_id": "android-248325df5d81a660",
-        "request_id": "3c7561fd-3569-48dd-9cda-04580adece88",
-        "tray_session_id": "f9244532-a202-4421-844d-f0d9ebff1308"
+        "phone_id": "99e8dd0c-422a-48bf-bb34-3f664739a767",
+        "uuid": "6fca0860-bdc2-4bff-88cf-1448a01ea350",
+        "client_session_id": "04a06506-2814-49be-9000-c928bf04b2d8",
+        "advertising_id": "85dba376-4278-4ee4-9cb2-048cebf85929",
+        "android_device_id": "android-b2e4fbbb84e09239",
+        "request_id": "269a6345-001f-458f-9ee9-345ce825f3de",
+        "tray_session_id": "bb2ced68-16d8-42c5-acf1-bbecc3668902"
     },
-    "mid": "aZCNjgABAAHeoM0gUe3YjWfdq7uc",
+    "mid": "aesutQABAAFyc8-r56QnaKx3RPkt",
     "ig_u_rur": null,
     "ig_www_claim": null,
     "authorization_data": {
-        "ds_user_id": "40040479295",
-        "sessionid": "40040479295:ODWje3PGuYsgLK:15:AYhv0tXup41qxSG3AlToc2kN6cDDa0YzaMqRIm49gA"
+        "ds_user_id": "34633153257",
+        "sessionid": "34633153257%3ApOeFRqGfhnrIk0%3A12%3AAYgDxtW2L7kaki05Ss4BFM8cwz3pM7nHpzWcHP_zHw"
     },
-    "cookies": {
-        "sessionid": "40040479295:ODWje3PGuYsgLK:15:AYhv0tXup41qxSG3AlToc2kN6cDDa0YzaMqRIm49gA",
-        "ds_user_id": "40040479295"
-    },
-    "last_login": null,
+    "cookies": {},
+    "last_login": 1777020613.8645947,
     "device_settings": {
         "android_version": 26,
         "android_release": "8.0.0",
@@ -29,8 +26,9 @@
         "device": "devitron",
         "model": "6T Dev",
         "cpu": "qcom",
-        "app_version": "269.0.0.18.75",
-        "version_code": "314665256"
+        "app_version": "364.0.0.35.86",
+        "version_code": "374010953",
+        "bloks_versioning_id": "8ccf54aad76788a6ca03ddfc33afcdcf692f2f5a3ba814ea73d5facba7fa2c2d"
     },
     "user_agent": "Instagram 410.0.0.0.96 Android (33/13; 480dpi; 1080x2400; xiaomi; M2007J20CG; surya; qcom; en_US; 641123490)",
     "country": "US",
